@@ -1,5 +1,5 @@
 package myapp
 
-func foo() {
+func Foo() {
 
 }
