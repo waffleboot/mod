@@ -1,6 +1,8 @@
 package mypubliclib
 
-// Foo ...
-func Foo() {
+import "fmt"
 
+// Foo ...
+func Foo(i int) {
+	fmt.Println(i)
 }
